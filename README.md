@@ -10,9 +10,9 @@ This backend server is built with Express.js and TypeScript, using a JSON file a
 - **DELETE /delete**: Accepts a JSON body with `index` to delete the specified submission.
 
 ### Setup
-1. **Install Dependencies**:
+1. **Install Dependencies**:  
     cd backend   
     npm install
 
-2. **Run the Server**:
+2. **Run the Server**:  
     npm start
